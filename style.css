@@ -1,0 +1,12 @@
+#container{
+    background-color: violet;
+}
+#search-div{
+    background-color: rgb(255, 211, 13);
+    padding: 50px;
+    text-align: center;
+    color: tomato
+}
+#logo-image{
+    width: 300px;
+}
